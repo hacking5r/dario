@@ -1,0 +1,2 @@
+# dario
+sistema operatibo
